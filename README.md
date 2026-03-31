@@ -7,9 +7,9 @@
 
 ## Imágenes
 
-![Robot](Micro Overleaf/robotito.jpg)
-![Esquema de conexiones](Micro Overleaf/esquema_conexiones.png)
-![Joystick](Micro Overleaf/joystick.png)
+![Robot](Micro%20Overleaf/robotito.jpg)
+![Esquema de conexiones](Micro%20Overleaf/esquema_conexiones.png)
+![Joystick](Micro%20Overleaf/joystick.png)
 
 ---
 
