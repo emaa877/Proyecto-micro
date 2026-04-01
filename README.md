@@ -1,5 +1,6 @@
 # Proyecto Final Integrador: Robot de 2 Grados de Libertad para Captura de Multimedia
 
+## Cátedra: Microcontroladores y electrónica de potencia
 ## Ingeniería en Mecatrónica  
 ## Facultad de Ingeniería - Universidad Nacional de Cuyo  
 
